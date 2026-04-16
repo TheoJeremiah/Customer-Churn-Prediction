@@ -1,6 +1,6 @@
 # data
-data/
-*.csv
+# data/
+# *.csv
 
 # notebook checkpoints
 .ipynb_checkpoints/
